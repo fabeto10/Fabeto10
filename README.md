@@ -4,4 +4,4 @@ My name is Francisco Vidal and i'm Full Stack Web Developer, here you can see a 
 
 😁 Open to job opportunities.
 
-##ReactJS ##FlaskSQL ##PostgreSQL ##AngularJS(learning) ##MongoDB(learning) ##Neo4J(learning) ##SigmaJS(learning)
+#ReactJS #FlaskSQL #PostgreSQL #AngularJS(learning) #Node.js
